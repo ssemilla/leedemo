@@ -1,2 +1,3 @@
 Hi Lee, my name is Stephen
-Remember the blue umbrella?
+Remember the red umbrella?
+This is text line 3
